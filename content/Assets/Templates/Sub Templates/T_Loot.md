@@ -1,0 +1,3 @@
+| Loot | Description | Who took |
+| ---- | ----------- | -------- |
+|      |             |          |
