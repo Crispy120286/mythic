@@ -154,7 +154,7 @@ We make it out. We head towards [[Luke]]'s.
 ###### Current Goals
 - [ ] stuff
 
-## The Prophet
+## The Prophet (DM NOTES)
 
 A Colossal spider-scorpion hybrid. Thirty feet wide and fifteen feet tall. Eight Sharp spiked covered legs with two massive front claws. Eight Eyes and a fanged maw. Coarse hair covers a single segment body with a massive poison barbed tail on the back. Spinnerets in the back.
 

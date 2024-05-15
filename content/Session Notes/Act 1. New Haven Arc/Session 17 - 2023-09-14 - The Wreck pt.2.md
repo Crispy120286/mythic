@@ -2,13 +2,13 @@
 type: session
 campaign: Mythic
 date: 2023-09-14
-description: "Wreck pt.2"
+description: "The Wreck pt.2"
 session: "17"
 act: "1"
 draft: false
 ---
 Previous [[Session 16 - 2023-09-07 - The Wreck]]
-Next [[Session 18 - 2023-09-21 - Wreck pt.3]]
+Next [[Session 18 - 2023-09-21 - The Wreck pt.3]]
 
 # Journal
 ## Erastus the 14th.

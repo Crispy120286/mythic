@@ -79,17 +79,3 @@ Lvl 5! Roll 3 for HP
 ###### Current Goals
 - [ ] stuff
 
-In this journal entry, the group discovers that [[Sigmund Ragehammer|Sigmund]] no longer has any scars, and he reveals that he's not the only one like this - [[Voltaire]] also has a piece. They also discover that [[Zerg]] was immolated and left all his magic items behind, including a cloak of resistance +1 with endure elements, a +1 hide armor, and a quick runners shirt. The group takes these items, and [[Sigmund Ragehammer|Sigmund]] takes the cloak and armor while [[Victor Kasune|Victor]] takes the shirt. They also find a magical axe, which they put into the group loot.
-
-After searching the room more thoroughly, they find a wand of mage armor with 22 charges, a bamboo scroll case, and a couple of unidentified potions. They then head back out to the Paladins by following a map provided by the journal's author.
-
-When they reach the exit, they find that the hivemind has buried the door with rocks and sand, making it impossible to leave. They try the other entrance to [[The Giving Hand]], and after some effort, they manage to get the rubble out of the doorway. However, as soon as they step outside, they are confronted by a man being chased by six infected. The group runs down the street, and five of the infected break off and run towards them.
-
-They manage to escape by running to [[Victor Kasune|Victor]]'s safehouse and hiding underground. The man who was being chased turns out to be a bard named [[Orist Zinnorin|Orist]] Zinorin, the Maestro of a bard troop. They introduce themselves and decide to take him with them.
-
-The group then heads to [[The Distillery]], but when they arrive, they find that the door has been pried open by the infected using sharp barbed spikes. They explore the area and find that the large stone basins have some dead infected floating in the water, indicating that the infected have been there. They then discover a single door at the end of the room, which [[Victor Kasune|Victor]] picks open. However, the door has a "Hold Portal" trap on it that will lock them in if they don't finish in time.
-
-Inside the door, they find natural stone that's different from the yellow stone found topside. They discover a number puzzle at the base of a spiral staircase, and after experimenting, they discover that it's the Fibonacci sequence. They then find a spiral staircase that leads to a room with 20 holes and 20 keys, and when they enter the room, the water starts to pour in. The group manages to solve the puzzle with the help of [[Victor Kasune|Victor]], and they discover the Aquaphor, the last water on the island.
-
----
-The group discovers that [[Sigmund Ragehammer|Sigmund]] and [[Voltaire]] no longer have any scars and finds magic items left behind by [[Zerg]], including a cloak of resistance, a hide armor, and a quick runners shirt. They find a wand of mage armor, a bamboo scroll case, and unidentified potions. They manage to escape from the infected by running to [[Victor Kasune|Victor]]'s safehouse and hiding underground, where they meet [[Orist Zinnorin|Orist]] Zinorin, a bard. They head to [[The Distillery]] and find dead infected in the water and a door with a "Hold Portal" trap. Inside, they solve a number puzzle and find the Aquaphor, the last water on the island.

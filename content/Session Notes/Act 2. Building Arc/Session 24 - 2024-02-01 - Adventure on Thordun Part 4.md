@@ -10,7 +10,7 @@ Previous [[Session 23 - 2024-01-11 - Adventure on Thordun Part 3]]
 Next [[Session 25 - 2024-02-29 - Adventure on Gnostis Part 1]]
 
 # Journal
-## Gozran 8, 2348. Week 38, [[Thordun]]
+## Gozran 30, 2348. Week 38, [[Thordun]]
 We're all alive and mostly whole.
 We hear the drums. The [[Stray Deity of War and Strategy]] is on its way. Oh crap.
 
@@ -45,7 +45,7 @@ On the first day, I cast Scrying on [[Keeg]] to see how he is doing. [[Keeg]] is
 
 [[Voltaire]] intimidates the [[Order of the Nail|hellknights]]. They promise to stop torturing [[Keeg]].
 
-## Gozran 11, 2348
+## Desnus 2, 2348
 The [[Order of the Nail|Hellknights]] leave. I finish a glorious game of chess with the deity.
 
 We go outside and meet at the rendezvous point for our ships.

@@ -10,7 +10,7 @@ class: Wizard
 draft: false
 ---
 # Caeris Colorion
-![[Caeris Small.png|cover hsmall]]
+![[Caeris Small.png]]
 
 # Biographical Information
 |               |                                                                                                                                                                                                                                                                                |

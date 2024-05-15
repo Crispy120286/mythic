@@ -8,7 +8,7 @@ act: "1"
 draft: false
 ---
 Previous [[Session 15 - 2023-08-10 - Death of the Hivemind]]
-Next [[Session 17 - 2023-09-14 - Wreck pt.2]]
+Next [[Session 17 - 2023-09-14 - The Wreck pt.2]]
 
 # Journal
 ## Erastus the 14th.

@@ -14,7 +14,7 @@ Next [[Session 26 - 2024-03-21 - Adventure on Gnostis Part 2]]
 - [ ] ideas for island. I want something magical. I'm not a huge fan of puzzles but if I need to put together a magical thingy or some piece of ancient (my time) history or magic. [[Sigmund Ragehammer|Sigmund]] got a cool keep and a ton of kobolds. I would like to find something but more on the lore or magical side. 
 
 # Journal
-## Gozran 11, 2348
+## Desnus 2, 2348, Week 38
 [[Sigmund Ragehammer|Sigmund]] is ready to start building on his island.
 > [[Sigmund Ragehammer|Sigmund]] is now lvl 8
 [[Voltaire]] says he is heading back to [[New Haven]].
@@ -26,13 +26,13 @@ I set sail to the island I wish to claim for myself. It takes us 3 weeks to get 
 
 [[Sigmund Ragehammer|Sigmund]] named his island [[Thordun]].
 
-## Desnus 2, 2348
+## Desnus 23, 2348, Week 41
 We arrive on the island. We land in a medium sized glade.
 [[Lysander Ravensong|Lysander]] rolls survival (28) and we hunt rabbits and forage for some food.
 
 We spend a week surveying the island to get an accurate map of its layout.
 
-## Desnus 9, 2348 
+## Desnus 24, 2348, Week 41
 The survey is complete (Counts as taking 20). There are some natural springs. There are no shrines or signs of a local deity.
 
 "I claim this island in the name of [[House Colorion]]. I name it [[Gnostis]]."
@@ -44,7 +44,7 @@ It takes everyone a week to show up.
 
 I set my crew to digging the hole. I send my ship to find some elves and food and iron on one of the islands I found. Diggy Diggy hole.
 
-## Desnus 16, 2348
+## Sarenith 1, 2348, Week 42
 Everyone arrives. [[Sigmund Ragehammer|Sigmund]] arrives first. [[Aurora]] arrives second.
 
 She gives me a pill of Foxes Cunning.

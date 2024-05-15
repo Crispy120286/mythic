@@ -7,7 +7,7 @@ session: "20"
 act: "2"
 draft: false
 ---
-Previous [[Session 19 - 2023-09-28 - Wreck Finale]]
+Previous [[Session 19 - 2023-09-28 - The Wreck Finale]]
 Next [[Session 21 - 2023-12-14 - Adventure on Thordun Part 1]]
 
 ##### Housekeeping
@@ -23,6 +23,9 @@ Inside was a tiny calligraphy wyrm.  It stretches up and flies into my pocket. T
 Mythoros says he was placed into the cabin on purpose. that he was manufactured or born. He remembers everything from [[New Haven]]. He says he can continue his translation duties.
 
 ---
+# Gozran 1, 2348 AE
+ *Week 34*
+
 I spent 34 weeks researching spells while we were searching for Islands. I dipped into my BP for it. I am down to 78.2 BP.
 
 ---

@@ -21,7 +21,7 @@ Mythic!
 **Day one**
 [[Victor Kasune]] with [[Cassius Morgan]]- His Mentor. He goes to his final stop. the Drowning Swan Inn. 6 foot 6 Orc guard captain [[Zerg]]. 
 
-I'm waking up. My ankle is very swollen. My everything hurts. I see a dwarf. He's speaking in a language I don't know. The dwarf hands me a drink. I drink. Cool and refreshing. I'm lying on a pie of leather scraps in an entirely stone room. I speak to him in Old Dwarven. I ask him where I am. He says I talk like his grandpa. I'm in a place called the City of [[New Haven]], The shittiest place on the whole "island". He says water is luxury. what?
+I'm waking up. My ankle is very swollen. My everything hurts. I see a dwarf. He's speaking in a language I don't know. The dwarf hands me a drink. I drink. Cool and refreshing. I'm lying on a pile of leather scraps in an entirely stone room. I speak to him in Old Dwarven. I ask him where I am. He says I talk like his grandpa. I'm in a place called the City of [[New Haven]], The shittiest place on the whole "island". He says water is luxury. what?
 
 [[Zerg]] comes crashing in with Victor. Puts him in an adjacent cell. 
 

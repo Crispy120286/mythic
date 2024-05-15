@@ -7,7 +7,7 @@ session: "2"
 act: "1"
 draft: false
 ---
-Previous [[Session 1 - [object Object]]]
+Previous [[Session 1 - 2023-01-26 - Attack on New Haven]]
 Next [[Session 3 - 2023-02-23 - New Haven's College of Arcane Studies]]
 
 # Log

@@ -55,7 +55,7 @@ draft: false
 -   Heavily guarded, Noble Guards.
 -   non rationed water stored in stone tubs.
 
-### Gambler’s Brew
+### [[The Gamblers Brew]]
 -   Irace “Bigbarrel”: Owner and operator. Halfling.
 -   >1,000gp value magic item shop. 
 -   Buys apprentice made potions and other cheap magic items from the Academy at a heavy discount.  

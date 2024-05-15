@@ -10,7 +10,7 @@ Previous [[Session 27 - 2024-04-11 - Adventure on Machina Part 1]]
 Next [[Session 29]]
 
 # Journal
-## Sarenith 27, 2348 [[Macina]]
+## Erastus 10, 2348. Week 48. [[Macina]]
 %%Notes go here%%
 Recap. Strange robotic beings on the island.  The entire village of Goldenleaf has gone missing. We're currently in Silvershade. 
 
@@ -34,7 +34,7 @@ Someone is singing a creepy song while sitting in a tree. [[Orist Zinnorin|Orist
 
 We head back to Goldenleaf. 
 
-We search the city again. We need to do a concentrated search effort. I manage to trick Ryland into helping us. It takes a bit more searching.
+We search the city again. We need to do a concentrated search effort. I manage to trick [[Ryland]] into helping us with a clever bluff check. It takes a bit more searching.
 
 Nearly impossible to see under regular circumstances, we find one set of footprints that came from [[Stonewind]]. This one sunk a little bit deeper into the dirt. This person was a bit heavier.
 
@@ -60,7 +60,6 @@ We need to go to Rylands neighbors basement.
 
 We go to Crystal Cove.
 
-We go to [[Eira Nightwhisper]]'s house.
-She has extra joints on her arm.
+We go to [[Eira Nightwhisper]]'s house. She has extra joints on her arm. Creepy...
 
 She cuts her own throat and smiles with satisfaction. oh god...

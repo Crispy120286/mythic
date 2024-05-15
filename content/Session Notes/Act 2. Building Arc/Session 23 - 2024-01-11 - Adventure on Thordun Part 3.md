@@ -13,7 +13,7 @@ Next [[Session 24 - 2024-02-01 - Adventure on Thordun Part 4]]
 - [x] Geoff, Can we drop the concept of people being far beneath our notice. I dont like the feeling that we're superior to everyone being forced on us. If we want to feel like that, we can choose to. I am not a fan of this one particular concept.
 
 # Journal
-## Gozran 8, 2348. Week 38, [[Thordun]]
+## Gozran 30, 2348. Week 38, [[Thordun]]
 ### Combat Plan (Pre-session)
 1. Open with Fireball. Spend 1 MP, CL 9. Spend 1 AP, +2 DC. Use the coin for Persist Spell. (Preferably don't do that. Don't want to be directly at fault of killing anyone.)
 2. Spend 1 MP and cast Eagles Splendor on [[Sigmund Ragehammer|Sigmund]] for 9 minutes.

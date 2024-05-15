@@ -2,12 +2,12 @@
 type: session
 campaign: Mythic
 date: 2023-09-28
-description: "Wreck Finale"
+description: "The Wreck Finale"
 session: "19"
 act: "1"
 draft: false
 ---
-Previous [[Session 18 - 2023-09-21 - Wreck pt.3]]
+Previous [[Session 18 - 2023-09-21 - The Wreck pt.3]]
 Next [[Session 20 - 2023-11-15 - New Adventures!]]
 
 # Journal

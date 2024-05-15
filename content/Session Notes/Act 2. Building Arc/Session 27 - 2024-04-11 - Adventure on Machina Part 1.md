@@ -10,16 +10,16 @@ Previous [[Session 26 - 2024-03-21 - Adventure on Gnostis Part 2]]
 Next [[Session 28 - 2024-04-25 - Adventure on Machina Part 2]]
 
 # Journal
-## Sarenith 25th, 2348. [[Gnostis]]
+## Erastus 8, 2348. Week 48 [[Gnostis]]
 %%Notes go here%%
-4 weeks of stuff.
+4 weeks of stuff. Working on my Island. (Add notes Here)
 
 I get a message from Victor.
 I put Lysander in charge while I am gone.
 
 It takes me a day to get there.
 
-## Sarenith 26, 2348 [[Macina]]
+## Erastus 9, 2348, Week 48. [[Macina]]
 Macina Island has long golden fields of wheat. They figured out how to turn it into textile. They have Cloth. Trader [[Devian Nightstrider]] came through recently. Had some intricate tapestries made by [[Lysandra Duskfall]]. They have paintings which means they have pigments on this island as well made [[Elysia Starlight]]. Her paintings made of Starlit skies and creepy figures in the distance. In addition they have successful goat and pig farm.
 
 Island has a dilapidated mine and a hell knight barracks.
@@ -50,7 +50,7 @@ We try and speak to [[Ryland]] but he doesn't answer his door.
 
 We go back to the tavern and goes to bed.
 
-## Sarenith 27, 2348 [[Macina]]
+## Erastus 10, 2348. Week 48. [[Macina]]
 We are woken up in the morning by knocking on the door. [[Ryland]] wants to speak to us. Appearently the entire population of Goldleaf is missing.
 
 We go speak to him. He has a big sword on his back. He very angry and accuses us of making an entire village go missing. he left.

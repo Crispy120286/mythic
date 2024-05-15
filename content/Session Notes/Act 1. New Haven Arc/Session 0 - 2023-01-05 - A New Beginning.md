@@ -42,13 +42,13 @@ Game Begin!
 
 I am set to duel him for the Colorion family honor.
 
-My father comes into the room and Tells me that as heir to the colorion line, It is my duty to lead the family. He then bestows upon me the Colorion family book. The [[Book of Colorion]]. It is a Blessed Book. I have dreamed of this for many years.
+My father comes into the room and Tells me that as heir to the Colorion line, It is my duty to lead the family. He then bestows upon me the Colorion family book. The [[Book of Colorion]]. It is a Blessed Book. I have dreamed of this for many years.
 
 The bell tolls and I head out to the dueling arena where I face off against my opponent.
 
-The earth cracks open, a massive tentacle reaches out and an eye opens and looks around. Its terrifying. more reach upo and slam into the ground and start rending the area apart.
+The earth cracks open, a massive tentacle reaches out and an eye opens and looks around. Its terrifying. more reach up and slam into the ground and start rending the area apart.
 
-I immediately cast Mage Armor and Shield, then i turn to run towards my family. Something grabbed my leg and pulled me down into the deeps. As im falling i notice the colorion book falling.
+I immediately cast Mage Armor and Shield, then i turn to run towards my family. Something grabbed my leg and pulled me down into the deeps. As i'm falling i notice the Colorion book falling.
 
 I wake in a strange forest. I hear creatures all around me. I see a shack in the distance. I run towards it and one of the monsters chase me. A big thing with claws. I get to the shack and slam the door closed. It starts breaking down the door. In the back is another door.
 

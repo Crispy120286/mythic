@@ -10,7 +10,7 @@ Previous [[Session 25 - 2024-02-29 - Adventure on Gnostis Part 1]]
 Next [[Session 27 - 2024-04-11 - Adventure on Machina Part 1]]
 
 # Journal
-## Desnus 16, 2348. [[Gnostis]]
+## Sarenith 1, 2348. Week 42  [[Gnostis]]
 Time to fight an Iron Golem.
 They're slow and immune to magic.
 
@@ -55,12 +55,12 @@ Total +29
 
 We complete it in 8 days.
 
-## Desnus 24, 2348. [[Gnostis]]
+## Sarenith 9, 2348. Week 43 [[Gnostis]]
 We have completed all 4 challenges.
 
 An Ethereal voice from the other side of the wall. "Unexpected surprise but a welcome one., Return tomorrow at 9am for your grades."
 
-## Desnus 25, 2348. [[Gnostis]]
+## Sarenith 10, 2348. Week 44 [[Gnostis]]
 9am sharp the next morning.
 
 ### Report card

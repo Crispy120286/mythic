@@ -12,6 +12,8 @@ This is the journal of Caeris Colorion.
 [[The World]]
 [[Locations]]
 [[NPC's]]
+[[Calendar]]
+[[Timeline]]
 
 ## Mythic Heroes
 [[Caeris Colorion]] -PC
@@ -48,9 +50,9 @@ This is the journal of Caeris Colorion.
 [[Session 14 - 2023-07-27 - Plans for the future]]
 [[Session 15 - 2023-08-10 - Death of the Hivemind]]
 [[Session 16 - 2023-09-07 - The Wreck]]
-[[Session 17 - 2023-09-14 - Wreck pt.2]]
-[[Session 18 - 2023-09-21 - Wreck pt.3]]
-[[Session 19 - 2023-09-28 - Wreck Finale]]
+[[Session 17 - 2023-09-14 - The Wreck pt.2]]
+[[Session 18 - 2023-09-21 - The Wreck pt.3]]
+[[Session 19 - 2023-09-28 - The Wreck Finale]]
 
 
 # Act 2. Finding a New Home.

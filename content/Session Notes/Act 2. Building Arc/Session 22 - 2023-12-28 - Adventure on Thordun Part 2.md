@@ -10,7 +10,7 @@ Previous [[Session 21 - 2023-12-14 - Adventure on Thordun Part 1]]
 Next [[Session 23 - 2024-01-11 - Adventure on Thordun Part 3]]
 
 # Journal
-## Gozran 8, 2348. Week 38, [[Thordun]]
+## Gozran 30, 2348. Week 38, [[Thordun]]
 I send [[Lysander Ravensong|Lysander]] back to the ship.
 
 We crawl our way into the crack in the mountain. Its slow going. At the end I cast Innocuous Shape on [[Victor Kasune|Victor]] to sneak ahead. He finds a slave quarters full of Ratfolk and Goblins. He comes back and disguises himself as a Hobgoblin again and we walk forward. [[Victor Kasune|Victor]] pretends to be a slaver and tells the slaves to act their best behavior. We move onward and find ourselves at a branching path. [[Sigmund Ragehammer|Sigmund]] chooses the right path. More tunnels that move up and around.

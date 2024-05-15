@@ -11,7 +11,7 @@ class: Bloodrager
 draft: false
 ---
 # Sigmund Ragehammer
-![[Rurik Small.png|cover hsmall]]
+![[Rurik Small.png]]
 # Biographical Information
 |               |                    |
 | ------------- | ------------------ |
