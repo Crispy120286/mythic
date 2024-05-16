@@ -3,7 +3,7 @@ title:
 draft: false
 ---
 ## Timeline
-- Caeris came from 1323 EC, or 4723 AR.
+- Caeris came from 1323 EC, or 4723 AR (Absolom Reckoning).
 - The AR calendar was retired in the year 5444. (+721 years)
 - This year is 2347AE. AE stands for After the End. 
 - Caeris travelled 3068 years into the future.
@@ -15,13 +15,13 @@ draft: false
 >  **-34** *The Great Defeat*
 > Caeris and his companions suffered a terrible loss.
 
->  **-35 BE** *Exypnos is founded*
+>  **-35 BE** *[[Exypnos]] is founded*
 > Caeris Colorion the First arrives in the new world and establishes the town of Exypnos.
 
->  **0 AE** *The Empire is Formed*
+>  **0 EC** *The Empire is Formed*
 > A new emperor is ordained by the Gods and an empire is formed. Caeris joins them with Exypnos.
 
->  **32 AE** *Caeris Colorion the First passes away*
+>  **32 EC** *Caeris Colorion the First passes away*
 > Caeris Colorion the First passes away at 95 years old. He never forgot his old companions or his first love. To the end he believed he let them down and was the cause of their demise.
 
 # Pre-Cataclysm, Caeris' History.
