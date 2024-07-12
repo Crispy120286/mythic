@@ -19,3 +19,5 @@ draft: false
 Bit of a coward.
 
 Ever since he became a mythic his confidence has skyrocketed. He is no longer a coward.
+
+Turns out he is an Aasimar.

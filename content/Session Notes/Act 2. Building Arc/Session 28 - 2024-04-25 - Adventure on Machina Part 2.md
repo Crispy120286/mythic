@@ -7,7 +7,7 @@ session: "28"
 act: "2"
 ---
 Previous [[Session 27 - 2024-04-11 - Adventure on Machina Part 1]]
-Next [[Session 29]]
+Next [[Session 29 - 2024-05-23 - Adventure on Machina Part 3]]
 
 # Journal
 ## Erastus 10, 2348. Week 48. [[Macina]]

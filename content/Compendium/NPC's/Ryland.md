@@ -10,7 +10,8 @@ gender:
 class: 
 status: Alive
 cause-of-death:
-draft: true
+draft: false
 ---
-<% await tp.file.move("/content/Compendium/NPC's/" + tp.file.title) %>
+
 ### Summary
+moody

@@ -2,7 +2,7 @@
 type: session
 campaign: Mythic
 date: <%tp.date.now()%>
-summary: ""
+description: ""
 session: "#"
 act: "#"
 draft: true
@@ -30,4 +30,4 @@ Next [[ ]]
 - [ ] Notes
 %%
 
-<% await tp.file.move("/Session Notes/" + tp.file.title) %>
+<% await tp.file.move("content/Session Notes/" + tp.file.title) %>

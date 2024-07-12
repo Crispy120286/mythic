@@ -14,6 +14,9 @@ Next [[Session 28 - 2024-04-25 - Adventure on Machina Part 2]]
 %%Notes go here%%
 4 weeks of stuff. Working on my Island. (Add notes Here)
 
+Week 44, 45, 46, 47
+I leave on week 48.
+
 I get a message from Victor.
 I put Lysander in charge while I am gone.
 

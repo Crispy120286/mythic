@@ -32,7 +32,6 @@ This is the journal of Caeris Colorion.
 [[Quests and Questions]]
 
 #  Act 1. New Haven.
-
 [[Session 0 - 2023-01-05 - A New Beginning]]
 [[Session 1 - 2023-01-26 - Attack on New Haven]]
 [[Session 2 - 2023-02-09 - Edge Duty]]
@@ -54,7 +53,6 @@ This is the journal of Caeris Colorion.
 [[Session 18 - 2023-09-21 - The Wreck pt.3]]
 [[Session 19 - 2023-09-28 - The Wreck Finale]]
 
-
 # Act 2. Finding a New Home.
 [[Session 20 - 2023-11-15 - New Adventures!]]
 [[Session 21 - 2023-12-14 - Adventure on Thordun Part 1]]
@@ -65,4 +63,8 @@ This is the journal of Caeris Colorion.
 [[Session 26 - 2024-03-21 - Adventure on Gnostis Part 2]]
 [[Session 27 - 2024-04-11 - Adventure on Machina Part 1]]
 [[Session 28 - 2024-04-25 - Adventure on Machina Part 2]]
-[[Session 29]]
+[[Session 29 - 2024-05-23 - Adventure on Machina Part 3]]
+[[Session 30 - 2024-06-20 - Adventure on Machina Part 4]]
+[[Session 31 - 2024-07-11 - The plan to unalive life]]
+[[Session 32]]
+
