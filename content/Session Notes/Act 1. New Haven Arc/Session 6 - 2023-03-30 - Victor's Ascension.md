@@ -39,7 +39,7 @@ Next [[Session 7 - 2023-04-20 - Attack on the Volusius Estate]]
 - On the other side we hide. The man is a bard!
 - [[Orist Zinorin]]. The Maestro of the bard troop.
 - We introduce ourselves.
-- [[Aurora]] leave as a bird to go speak with [[the grove maiden]].
+- [[Aurora]] leave as a bird to go speak with [[The Grove Maiden]].
 - the paladins leave to go to the counts manor.
 - We take the bard with us.
 

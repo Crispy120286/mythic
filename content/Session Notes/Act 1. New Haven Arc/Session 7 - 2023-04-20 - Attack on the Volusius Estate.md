@@ -71,7 +71,7 @@ Next [[Session 8 - 2023-05-04 - Caeris' Ascension]]
 - [[Aurora]] crawls her way out of the ground glowing in light! she's burning. 7 flowers, one of each color of the rainbow bloom around her and siphons the burning. The abundance of positive energy is immense. The area is a beautiful sanctuary. 
 - The goddess. "There is everything you have asked for, now save Citro."
 - [[Aurora]] walks over. She looks as thought she was born again into the world. She turns into a bird and fly's into the thicket.
-- We go back to [[the Grove Maiden]] to ask her where we can find [[Count Citro Volusius|the Count]].
+- We go back to [[The Grove Maiden]] to ask her where we can find [[Count Citro Volusius|the Count]].
 - She is not there. [[Voltaire]] goes and starts beating in the Grove Guards. [[Sigmund Ragehammer|Sigmund]] and [[Victor Kasune|Victor]] stop him. 
 - I go and speak to [[Aurora]]. I tell her we can leave the island. She agrees to help us.
 - She says that they can sense the others, but not distance or direction. She says there are two more pieces of power on this island.

@@ -8,7 +8,7 @@ act: "2"
 draft: false
 ---
 Previous [[Session 29 - 2024-05-23 - Adventure on Machina Part 3]]
-Next [[Session 31 - 2024-07-11 - The plan to unalive life]]
+Next [[Session 31 - 2024-07-11 - The Plan to Unalive Life]]
 
 %% If needed
 ##### Housekeeping

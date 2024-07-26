@@ -13,7 +13,7 @@ Next [[Session 11 - 2023-06-15 - Planning Phase Part 2]]
 # Journal
 ## Sarenith 24, 2347 AE. 
 - The next morning.
-- We need to get [[Count Citro Volusius|the Count]]. Why don't we use the Grove Guards? Because [[the Grove Maiden]] wont risk them.
+- We need to get [[Count Citro Volusius|the Count]]. Why don't we use the Grove Guards? Because [[The Grove Maiden]] wont risk them.
 - [[Sigmund Ragehammer|Sigmund]] wants to go to [[Luke]]'s house. Not a bad idea.
 - Where is the counts skiff? It WAS at the guard tower. that's gone and collapsed.
 - First I suggest we go to the Counts first so we can get some food. THEN we can go to Lukes.
@@ -21,7 +21,7 @@ Next [[Session 11 - 2023-06-15 - Planning Phase Part 2]]
 
 ### Volusius Estate
 - We make it to the counts estate.
-- The grove guards tell [[Voltaire]] he isn't allow to enter. He says he is there to tell [[the Grove Maiden]] an update of their mission.
+- The grove guards tell [[Voltaire]] he isn't allow to enter. He says he is there to tell [[The Grove Maiden]] an update of their mission.
 - We try and speak to the goddess ourselves but she isn't showing herself. 
 - Trying the Grove Guards again. They are chittering like monkeys. They go back to arguing.
 - We go to the peasant area. [[Orist Zinnorin|Orist]] and [[Ember]] went there. Jacob is there. I give him back his wands and he lets me keep the sleep one.
@@ -85,7 +85,7 @@ Next [[Session 11 - 2023-06-15 - Planning Phase Part 2]]
 - Goals: Find [[Count Citro Volusius|the count]]. Find the last piece of power. Build transportation. Stop the hivemind. Kill the scorpion. Stop [[Luke]].
 - [[Voltaire]] suggests [[Luke]] is lower priority.
 - [[Orist Zinnorin|Orist]] is gone. lol
-- We go with [[Aurora]] to summon [[the Grove Maiden]].
+- We go with [[Aurora]] to summon [[The Grove Maiden]].
 - Can we have a boat to travel faster. She says no.
 - We ask why. Because we will just leave.
 - Can she give us means of faster transport. Her champion has awoken. the piece of power is also near her champion. in the center of the island.

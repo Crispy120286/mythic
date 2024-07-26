@@ -36,11 +36,11 @@ Next [[Session 13 - 2023-07-13 - GET OUT OF TEH HOLE!]]
 - Its at this point that we turn back and go back to the surface. We go back to the [[Voltaire]] Estate.
 - [[Voltaire]] commissions 1,000 ft. of rope and some copper pitons.
 - I want to try and find [[Aurora]]. I have a theory about searching for the Mythic Powers.
-- [[Aurora]] gave the last of her Mythic power to [[the grove maiden]] to extend her protection to [[Orist Zinnorin|Orist]].
+- [[Aurora]] gave the last of her Mythic power to [[The Grove Maiden]] to extend her protection to [[Orist Zinnorin|Orist]].
 
 ## Erastus 1, 2347 AE.
 - We all wake and prepare.
-- [[The grove maiden]] speaks into our heads. She calls us forward to discuss something. We go.
+- [[The Grove Maiden]] speaks into our heads. She calls us forward to discuss something. We go.
 - I meditate on the Mythic power and fail on sensing more. the power is there.
 - We have climbers kits!
 

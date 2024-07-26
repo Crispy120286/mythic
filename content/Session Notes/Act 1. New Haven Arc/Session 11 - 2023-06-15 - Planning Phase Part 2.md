@@ -22,7 +22,7 @@ Next [[Session 12 - 2023-06-29 - GET IN TEH HOLE]]
 - [[Sigmund Ragehammer|Sigmund]] and [[Voltaire]] see more fungus underground. they pile MORE rocks onto it.
 - I then decide to  check with the metalsmith and see [[Orist Zinnorin|Orist]] who is getting him to make something.
 - [[Orist Zinnorin|Orist]] helps me gather people to help make rope.
-- We all perform a ritual to pray to [[the grove maiden]]. we plan potatoes and get lots of vines!
+- We all perform a ritual to pray to [[The Grove Maiden]]. we plan potatoes and get lots of vines!
 
 ### Montage! day 1.
 - We have lots of rope with the vines.
@@ -43,7 +43,7 @@ Next [[Session 12 - 2023-06-29 - GET IN TEH HOLE]]
 - Meeting with the Mythics.
 - [[Luke]] has multiple personalities.
 - Spores burn, the Scorpider hates cold. We need to burn the spore tower.
-- After much arguing we go speak to [[the Grove Maiden]].
+- After much arguing we go speak to [[The Grove Maiden]].
 
 ### Grove Maiden
 - Can we drop a blizzard on the city? With daily help, yes.

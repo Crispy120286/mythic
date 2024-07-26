@@ -8,7 +8,7 @@ act: "3"
 draft: false
 ---
 Previous [[Session 30 - 2024-06-20 - Adventure on Machina Part 4]]
-Next [[Session 32]]
+Next [[Session 32 - 2024-07-25 - Over the Void]]
 
 # Journal
 ## Week 57
@@ -93,19 +93,17 @@ We all meet up at the Counts Estate.
 
 [[Voltaire]] is sad he couldn't mess with the Halflings.
 [[Orist Zinnorin|Orist]] met his fellow musicians and sending the home.
-[[Aurora]] says [[the Grove Maiden]] is giving us food for the journey.
+[[Aurora]] says [[The Grove Maiden]] is giving us food for the journey.
 [[Caeris Colorion|Caeris]] tells them that the Wizards are going to try and create a ritual to Ward Life.
 
 Dinner is steak and potato's! Lots of butter!
 
 
-
-%% If needed
 ## Loose Ends
 ###### Questions
-- [ ] Notes
+- [ ] What is the ring that Garrick gave me? I need to identify that.
 
 ###### Current Goals
 - [ ] Notes
-%%
+
 
