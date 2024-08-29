@@ -8,7 +8,7 @@ act: "3"
 draft: false
 ---
 Previous [[Session 31 - 2024-07-11 - The Plan to Unalive Life]]
-Next [[Session 33]]
+Next [[Session 33 - 2024-08-22 - Rovagug Attack]]
 
 ##### Housekeeping
 - [ ] You said that 10sq miles is 1 hex on an island. Also that if an island is 1-15sq miles, its 1 hex, that means 16-20 is only 2 hexes?. How do we find one with 3 hexes or more?

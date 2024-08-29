@@ -2,7 +2,7 @@
 type: session
 campaign: Mythic
 date: 2024-08-22
-description: ""
+description: "Rovagug Attack"
 session: "33"
 act: "3"
 draft: true

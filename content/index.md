@@ -69,7 +69,7 @@ This is the journal of Caeris Colorion.
 # Act 3. The First Life.
 [[Session 31 - 2024-07-11 - The Plan to Unalive Life]]
 [[Session 32 - 2024-07-25 - Over the Void]]
-[[Session 33]]
+[[Session 33 - 2024-08-22 - Rovagug Attack]]
 [[Session 34]]
 [[Session 35]]
 
