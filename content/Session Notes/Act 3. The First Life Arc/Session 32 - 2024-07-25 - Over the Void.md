@@ -73,7 +73,7 @@ And then we escape the worst of the winds. [[Voltaire]] leads us out and towards
 * [[Voltaire]] jumps to my ship and engages the Red Dragon.
 * I cast Greater Invisibility on myself.
 * My crew attacks and kills some of the kobolds with ballista.
-* The Red Dragon breaths fire on my ship and crew. I respond with an Emergency Force Sphere.
+* The Red Dragon breaths fire on my ship and crew. I respond with an Emergency Force Sphere. Many of my crew are dead and my ship is damaged.
 
 %% If needed
 ## Loose Ends

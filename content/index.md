@@ -70,4 +70,7 @@ This is the journal of Caeris Colorion.
 [[Session 31 - 2024-07-11 - The Plan to Unalive Life]]
 [[Session 32 - 2024-07-25 - Over the Void]]
 [[Session 33]]
+[[Session 34]]
+[[Session 35]]
+
 

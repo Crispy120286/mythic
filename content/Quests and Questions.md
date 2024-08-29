@@ -19,7 +19,8 @@ Keep track of unanswered questions and other adventure hooks that the party hasn
 - [ ] Decipher the contract on my body.
 - [ ] Figure out the Contract
 - [ ] Find Exypnos.
-- [ ] Find the Book of ColorioExypnos] Fix magic (Prestidigitation, Mending, Make Whole)
+- [ ] Find the [[Book of Colorion]]
+- [ ] Fix magic (Prestidigitation, Mending, Make Whole)
 
 # Completed
 - [x] Familiar becoming a Calligraphy Wyrm.
