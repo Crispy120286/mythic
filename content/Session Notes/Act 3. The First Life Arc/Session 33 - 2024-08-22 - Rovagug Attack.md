@@ -5,10 +5,10 @@ date: 2024-08-22
 description: "Rovagug Attack"
 session: "33"
 act: "3"
-draft: true
+draft: false
 ---
 Previous [[Session 32 - 2024-07-25 - Over the Void]]
-Next [[Session 34]]
+Next [[Session 34 - 2024-08-29 - The Follower of Ragnorra]]
 
 # Journal
 ## Neth 3, 2348. Week 64.

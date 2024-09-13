@@ -70,7 +70,7 @@ This is the journal of Caeris Colorion.
 [[Session 31 - 2024-07-11 - The Plan to Unalive Life]]
 [[Session 32 - 2024-07-25 - Over the Void]]
 [[Session 33 - 2024-08-22 - Rovagug Attack]]
-[[Session 34]]
-[[Session 35]]
+[[Session 34 - 2024-08-29 - The Follower of Ragnorra]]
+[[Session 35 - 2024-09-05 - Spicy Fart Island]]
 
 

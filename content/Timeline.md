@@ -3,7 +3,7 @@ title:
 draft: false
 ---
 ## Timeline
-- Caeris came from 1323 EC, or 4723 AR (Absolom Reckoning).
+- Caeris came from 1323 EC (Empire Calendar), or 4723 AR (Absolom Reckoning).
 - The AR calendar was retired in the year 5444. (+721 years)
 - This year is 2347AE. AE stands for After the End. 
 - Caeris travelled 3068 years into the future.

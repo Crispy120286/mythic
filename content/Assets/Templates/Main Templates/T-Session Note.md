@@ -5,7 +5,7 @@ date: <%tp.date.now()%>
 description: ""
 session: "#"
 act: "#"
-draft: true
+draft: false
 ---
 Previous [[ ]]
 Next [[ ]]
