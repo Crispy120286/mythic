@@ -6,6 +6,10 @@ description: "Attack on the Volusius Estate"
 session: "7"
 act: "1"
 draft: false
+fc-display-name: Session 7
+fc-date: 2347-06-22
+fc-end: 2347-06-23
+fc-category: Session Note
 ---
 Previous [[Session 6 - 2023-03-30 - Victor's Ascension]]
 Next [[Session 8 - 2023-05-04 - Caeris' Ascension]]

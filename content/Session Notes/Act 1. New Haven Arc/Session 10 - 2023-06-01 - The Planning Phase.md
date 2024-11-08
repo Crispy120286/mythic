@@ -6,6 +6,10 @@ description: "The Planning Phase"
 session: "10"
 act: "1"
 draft: false
+fc-display-name: Session 10
+fc-date: 2347-06-24
+fc-end: 2347-06-25
+fc-category: Session Note
 ---
 Previous [[Session 9 - 2023-05-18 - Escaping the Horde]]
 Next [[Session 11 - 2023-06-15 - Planning Phase Part 2]]

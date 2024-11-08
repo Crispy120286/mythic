@@ -6,6 +6,10 @@ description: "Spicy Fart Island"
 session: "35"
 act: "3"
 draft: false
+fc-display-name: Session 35
+fc-date: 2348-11-14
+fc-end: 2348-11-14
+fc-category: Session Note
 ---
 Previous [[Session 34 - 2024-08-29 - The Follower of Ragnorra]]
 Next [[Session 36 - 2024-09-12 - Interview with the Argus]]

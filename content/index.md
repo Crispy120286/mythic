@@ -72,5 +72,15 @@ This is the journal of Caeris Colorion.
 [[Session 33 - 2024-08-22 - Rovagug Attack]]
 [[Session 34 - 2024-08-29 - The Follower of Ragnorra]]
 [[Session 35 - 2024-09-05 - Spicy Fart Island]]
+[[Session 36 - 2024-09-12 - Interview with the Argus]]
+[[Session 37 - 2024-09-19 - Beach Episode!]]
+[[Session 38 - 2024-10-03 - Underwater Adventures]]
+[[Session 39 - 2024-10-10 - The Second Sign]]
+[[Session 40 - 2024-10-17 - Itchy Dirt Island]]
+[[Session 41 - 2024-10-24 - The Temple of Sekhmet]]
+[[Session 42 - 2024-10-31 - The Living Sign]]
+[[Session 43 - 2024-11-07 - Planning for Ragnorra]]
+[[Session 44]]
+
 
 

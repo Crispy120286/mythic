@@ -6,6 +6,10 @@ description: "Escaping the Horde"
 session: "9"
 act: "1"
 draft: false
+fc-display-name: Session 9
+fc-date: 2347-06-23
+fc-end: 2347-06-23
+fc-category: Session Note
 ---
 Previous [[Session 8 - 2023-05-04 - Caeris' Ascension]]
 Next [[Session 10 - 2023-06-01 - The Planning Phase]]
@@ -42,9 +46,7 @@ Next [[Session 10 - 2023-06-01 - The Planning Phase]]
 - [[Voltaire]] and [[Orist Zinnorin|Orist]] go outside and have a "talk".
 - I have my familiar help decipher the contract on my body. 
 >**Linguistics Check Roll 35.**
-
-## Sarenith 24, 2347 AE. 
-- The next morning.
+- sleep.
 
 ## Loose Ends
 ###### Questions

@@ -5,6 +5,10 @@ date: 2024-02-01
 description: "Adventure on Thordun Part 4"
 session: "24"
 act: "2"
+fc-display-name: Session 24
+fc-date: 2348-04-30
+fc-end: 2348-05-02
+fc-category: Session Note
 ---
 Previous [[Session 23 - 2024-01-11 - Adventure on Thordun Part 3]]
 Next [[Session 25 - 2024-02-29 - Adventure on Gnostis Part 1]]

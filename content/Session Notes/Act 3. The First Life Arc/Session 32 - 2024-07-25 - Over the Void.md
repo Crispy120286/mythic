@@ -6,6 +6,10 @@ description: "Over the Void"
 session: "32"
 act: "3"
 draft: false
+fc-display-name: Session 32
+fc-date: 2348-10-10
+fc-end: 2348-11-03
+fc-category: Session Note
 ---
 Previous [[Session 31 - 2024-07-11 - The Plan to Unalive Life]]
 Next [[Session 33 - 2024-08-22 - Rovagug Attack]]
@@ -15,7 +19,7 @@ Next [[Session 33 - 2024-08-22 - Rovagug Attack]]
 - [ ] When sending allies off to recruit. How can we modify the number? It is just 10d10?
 
 # Journal
-## Lamashan 8, 2348. Week 61
+## Lamashan 10, 2348. Week 61
 I was given a ring of protection +1.
 
 It will take roughly a month to arrive to our destination.

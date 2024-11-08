@@ -6,6 +6,10 @@ description: "The Follower of Ragnorra"
 session: "34"
 act: "3"
 draft: false
+fc-display-name: Session 34
+fc-date: 2348-11-11
+fc-end: 2348-11-14
+fc-category: Session Note
 ---
 Previous [[Session 33 - 2024-08-22 - Rovagug Attack]]
 Next [[Session 35 - 2024-09-05 - Spicy Fart Island]]

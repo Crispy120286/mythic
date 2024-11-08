@@ -6,6 +6,10 @@ description: "The plan to unalive life"
 session: "31"
 act: "3"
 draft: false
+fc-display-name: Session 31
+fc-date: 2348-10-08
+fc-end: 2348-10-10
+fc-category: Session Note
 ---
 Previous [[Session 30 - 2024-06-20 - Adventure on Machina Part 4]]
 Next [[Session 32 - 2024-07-25 - Over the Void]]

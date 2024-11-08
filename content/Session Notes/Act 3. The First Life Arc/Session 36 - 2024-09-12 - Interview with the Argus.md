@@ -6,9 +6,13 @@ description: "Interview with the Argus"
 session: "36"
 act: "3"
 draft: false
+fc-display-name: Session 36
+fc-date: 2348-11-14
+fc-end: 2348-11-15
+fc-category: Session Note
 ---
 Previous [[Session 35 - 2024-09-05 - Spicy Fart Island]]
-Next [[Session 37]]
+Next [[Session 37 - 2024-09-19 - Beach Episode!]]
 
 %% If needed
 ##### Housekeeping

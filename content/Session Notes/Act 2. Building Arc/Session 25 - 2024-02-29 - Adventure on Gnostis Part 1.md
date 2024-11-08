@@ -5,6 +5,10 @@ date: 2024-02-29
 description: "Adventure on Gnostis Part 1"
 session: "25"
 act: "2"
+fc-display-name: Session 25
+fc-date: 2348-05-02
+fc-end: 2348-06-01
+fc-category: Session Note
 ---
 Previous [[Session 24 - 2024-02-01 - Adventure on Thordun Part 4]]
 Next [[Session 26 - 2024-03-21 - Adventure on Gnostis Part 2]]

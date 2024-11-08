@@ -6,6 +6,10 @@ description: "Rovagug Attack"
 session: "33"
 act: "3"
 draft: false
+fc-display-name: Session 33
+fc-date: 2348-11-03
+fc-end: 2348-11-11
+fc-category: Session Note
 ---
 Previous [[Session 32 - 2024-07-25 - Over the Void]]
 Next [[Session 34 - 2024-08-29 - The Follower of Ragnorra]]

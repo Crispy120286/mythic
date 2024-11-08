@@ -6,6 +6,10 @@ description: "Victor's Ascension"
 session: "6"
 act: "1"
 draft: false
+fc-display-name: Session 6
+fc-date: 2347-06-22
+fc-end: 2347-06-22
+fc-category: Session Note
 ---
 Previous [[Session 5 - 2023-03-23 - Sigmund's Ascension]]
 Next [[Session 7 - 2023-04-20 - Attack on the Volusius Estate]]

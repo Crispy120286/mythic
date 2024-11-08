@@ -6,11 +6,16 @@ description: "Edge Duty"
 session: "2"
 act: "1"
 draft: false
+fc-display-name: Session 2
+fc-date: 2347-06-10
+fc-end: 2347-06-12
+fc-category: Session Note
 ---
 Previous [[Session 1 - 2023-01-26 - Attack on New Haven]]
 Next [[Session 3 - 2023-02-23 - New Haven's College of Arcane Studies]]
 
 # Log
+## Sarenith 10, 2347 AE. Day Two
 We have just finished gathering supplies from [[The Dry Pencil]]. We have enough food and water for the 3 day trip. 
 
 The air is dry. There is no breeze. I see [[New Haven's College of Arcane Studies|The College]] to the north. 
@@ -41,7 +46,7 @@ Knowledge Arcana (24). The stars are wrong! Some are missing, the constellations
 
 Studying the sky. The moon looks like it is my moon, just off. like something hit it. I'm in hell.
 
-## Day 3. Serenith 12.
+## Sarenith 11, 2347 AE. Day 3. 
 I was hoping I would wake up in my comfortable bed in home but nope. I'm still in hell. I eat a potato. That is a delicious potato. We begin edge duty.
 
 We sail off the edge! Gravity is incredibly strange. We stay level with the side as it slopes off but gravity is always "down". As we get to the apex of the side I see the clouds on the underside. 
@@ -91,7 +96,7 @@ The rope [[Sigmund Ragehammer|Sigmund]] picked up is magic. The rope is called I
 
 We have collected a total of 8 crystals of varying sizes.
 
-## Day 4. Serenith 13.
+## Sarenith 12, 2347 AE. Day 4. 
 
 We finish the edge duty and find one more hole on the underside of the island. It is dead center in the island. At first it appears to be small but it is 40 feet long and 20 feet tall. We see some rocks falling "up". They part the clouds. [[Sigmund Ragehammer|Sigmund]] argues it will take too long to get to the City of [[New Haven|New Haven]] and that we should investigate the hole. I suggest we go to [[Luke]] and restock some potions before we investigate it. We have no potions.
 

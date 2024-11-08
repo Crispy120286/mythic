@@ -6,6 +6,10 @@ description: "Attack on New Haven"
 session: "1"
 act: "1"
 draft: false
+fc-display-name: Session 1
+fc-date: 2347-06-09
+fc-end: 2347-06-10
+fc-category: Session Note
 ---
 Previous [[Session 0 - 2023-01-05 - A New Beginning]]
 Next [[Session 2 - 2023-02-09 - Edge Duty]]
@@ -17,7 +21,7 @@ Next [[Session 2 - 2023-02-09 - Edge Duty]]
 
 # Log
 Mythic!
-## Day One. Sarenith 9.
+## Day One. Sarenith 9, 2347 AE.
 **Day one**
 [[Victor Kasune]] with [[Cassius Morgan]]- His Mentor. He goes to his final stop. the Drowning Swan Inn. 6 foot 6 Orc guard captain [[Zerg]]. 
 
@@ -83,7 +87,7 @@ Zerg wanders in. He appears to speak in first person.
 
 Sigmund lets me sleep in a bunk in the guards room. I elevate my leg. Before I go to bed I inspect the Ioun Wyrd.
 
-## Day Two. Serenith 10.
+## Day Two. Sarenith 10, 2347 AE.
 I wake up. Follow Sigmund outside to get waters,
 
 Belhorn comes up and refills the tin water bucket. We go back in and use the water to bathe. Belhorn does his second round of healing.

@@ -5,6 +5,10 @@ date: 2024-04-25
 description: "Adventure on Machina Part 2"
 session: "28"
 act: "2"
+fc-display-name: Session 28
+fc-date: 2348-07-10
+fc-end: 2348-07-10
+fc-category: Session Note
 ---
 Previous [[Session 27 - 2024-04-11 - Adventure on Machina Part 1]]
 Next [[Session 29 - 2024-05-23 - Adventure on Machina Part 3]]

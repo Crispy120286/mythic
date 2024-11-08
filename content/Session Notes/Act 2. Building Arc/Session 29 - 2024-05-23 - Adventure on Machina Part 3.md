@@ -6,6 +6,10 @@ description: "Adventure on Machina Part 3"
 session: "29"
 act: "2"
 draft: false
+fc-display-name: Session 29
+fc-date: 2348-07-10
+fc-end: 2348-07-11
+fc-category: Session Note
 ---
 Previous [[Session 28 - 2024-04-25 - Adventure on Machina Part 2]]
 Next [[Session 30 - 2024-06-20 - Adventure on Machina Part 4]]

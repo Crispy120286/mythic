@@ -1,5 +1,5 @@
 ---
-alias: Irthicax, Vane
+alias: Irthicax
 type: npc
 campaign: "Mythic"
 location:

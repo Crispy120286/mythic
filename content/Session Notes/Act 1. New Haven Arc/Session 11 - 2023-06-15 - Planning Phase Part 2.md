@@ -6,6 +6,10 @@ description: "Planning Phase Part 2"
 session: "11"
 act: "1"
 draft: false
+fc-display-name: Session 11
+fc-date: 2347-06-25
+fc-end: 2347-06-30
+fc-category: Session Note
 ---
 Previous [[Session 10 - 2023-06-01 - The Planning Phase]]
 Next [[Session 12 - 2023-06-29 - GET IN TEH HOLE]]

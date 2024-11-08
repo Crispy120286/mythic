@@ -6,6 +6,10 @@ description: "Death of the Hivemind"
 session: "15"
 act: "1"
 draft: false
+fc-display-name: Session 15
+fc-date: 2347-07-06
+fc-end: 2347-07-14
+fc-category: Session Note
 ---
 Previous [[Session 14 - 2023-07-27 - Plans for the future]]
 Next [[Session 16 - 2023-09-07 - The Wreck]]

@@ -6,6 +6,10 @@ description: "The Wreck Finale"
 session: "19"
 act: "1"
 draft: false
+fc-display-name: Session 19
+fc-date: 2347-07-16
+fc-end: 2347-08-13
+fc-category: Session Note
 ---
 Previous [[Session 18 - 2023-09-21 - The Wreck pt.3]]
 Next [[Session 20 - 2023-11-15 - New Adventures!]]

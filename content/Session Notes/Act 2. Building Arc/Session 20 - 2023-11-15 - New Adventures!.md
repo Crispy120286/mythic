@@ -6,6 +6,10 @@ description: "New Adventures!"
 session: "20"
 act: "2"
 draft: false
+fc-display-name: Session 20
+fc-date: 2348-04-01
+fc-end: 2348-04-01
+fc-category: Session Note
 ---
 Previous [[Session 19 - 2023-09-28 - The Wreck Finale]]
 Next [[Session 21 - 2023-12-14 - Adventure on Thordun Part 1]]

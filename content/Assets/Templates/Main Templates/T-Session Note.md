@@ -6,6 +6,10 @@ description: ""
 session: "#"
 act: "#"
 draft: false
+fc-display-name: <% tp.file.title %>
+fc-date: YYYY-MM-DD
+fc-end: YYYY-MM-DD
+fc-category: Session Note
 ---
 Previous [[ ]]
 Next [[ ]]

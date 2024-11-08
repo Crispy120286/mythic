@@ -6,6 +6,10 @@ description: "Plans for the future"
 session: "14"
 act: "1"
 draft: false
+fc-display-name: Session 14
+fc-date: 2347-07-02
+fc-end: 2347-07-06
+fc-category: Session Note
 ---
 Previous [[Session 13 - 2023-07-13 - GET OUT OF TEH HOLE!]]
 Next [[Session 15 - 2023-08-10 - Death of the Hivemind]]

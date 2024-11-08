@@ -6,6 +6,10 @@ description: "The Wreck pt.3"
 session: "18"
 act: "1"
 draft: false
+fc-display-name: Session 18
+fc-date: 2347-07-15
+fc-end: 2347-07-16
+fc-category: Session Note
 ---
 Previous [[Session 17 - 2023-09-14 - The Wreck pt.2]]
 Next [[Session 19 - 2023-09-28 - The Wreck Finale]]

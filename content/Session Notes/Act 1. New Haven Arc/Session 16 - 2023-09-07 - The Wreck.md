@@ -6,6 +6,10 @@ description: "The Wreck"
 session: "16"
 act: "1"
 draft: false
+fc-display-name: Session 16
+fc-date: 2347-07-14
+fc-end: 2347-07-14
+fc-category: Session Note
 ---
 Previous [[Session 15 - 2023-08-10 - Death of the Hivemind]]
 Next [[Session 17 - 2023-09-14 - The Wreck pt.2]]

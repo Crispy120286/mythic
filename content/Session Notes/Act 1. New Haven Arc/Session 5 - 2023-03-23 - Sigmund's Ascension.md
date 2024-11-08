@@ -6,6 +6,10 @@ description: "Sigmund's Ascension"
 session: "5"
 act: "1"
 draft: false
+fc-display-name: Session 5
+fc-date: 2347-06-20
+fc-end: 2347-06-22
+fc-category: Session Note
 ---
 Previous [[Session 4 - 2023-03-09 - Another Cataclysm]]
 Next [[Session 6 - 2023-03-30 - Victor's Ascension]]

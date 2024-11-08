@@ -6,12 +6,16 @@ description: "Another Cataclysm"
 session: "4"
 act: "1"
 draft: false
+fc-display-name: Session 4
+fc-date: 2347-06-14
+fc-end: 2347-06-20
+fc-category: Session Note
 ---
 Previous [[Session 3 - 2023-02-23 - New Haven's College of Arcane Studies]]
 Next [[Session 5 - 2023-03-23 - Sigmund's Ascension]]
 
 # Log
-## Serenith 15.
+## Sarenith 14, 2347 AE. 
 I wake to professor [[Jacob Stevens]] color spraying me in the face. once my eyesight comes back he suggests I go get food from [[The Giving Hand]]. I get half a potato, a handful of peanuts, some turnip, handful of the white/green mushrooms.
 
 I head down and get my daily rations. Upon returning to the school I realize I don't have a way to cook it. Hungry, I memorize my spells for the day.
@@ -61,7 +65,7 @@ The countess approaches, She has red curly hair with green hair. She asks us wha
 
 We are led to where we are going to be sleeping for the night.
 
-## Serenith 16.
+## Sarenith 15, 2347 AE.
 ##### The Next Morning.
 We all wake in the morning.
 

@@ -5,6 +5,10 @@ date: 2023-12-14
 description: "Adventure on Thordun Part 1"
 session: "21"
 act: "2"
+fc-display-name: Session 21
+fc-date: 2348-04-22
+fc-end: 2348-04-29
+fc-category: Session Note
 ---
 Previous [[Session 20 - 2023-11-15 - New Adventures!]]
 Next [[Session 22 - 2023-12-28 - Adventure on Thordun Part 2]]

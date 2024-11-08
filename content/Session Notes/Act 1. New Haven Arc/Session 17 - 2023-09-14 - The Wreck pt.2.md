@@ -6,6 +6,10 @@ description: "The Wreck pt.2"
 session: "17"
 act: "1"
 draft: false
+fc-display-name: Session 17
+fc-date: 2347-07-14
+fc-end: 2347-07-15
+fc-category: Session Note
 ---
 Previous [[Session 16 - 2023-09-07 - The Wreck]]
 Next [[Session 18 - 2023-09-21 - The Wreck pt.3]]

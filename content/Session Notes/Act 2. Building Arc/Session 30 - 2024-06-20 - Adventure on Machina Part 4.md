@@ -6,6 +6,10 @@ description: "Adventure on Machina Part 4"
 session: "30"
 act: "2"
 draft: false
+fc-display-name: Session 30
+fc-date: 2348-07-11
+fc-end: 2348-07-19
+fc-category: Session Note
 ---
 Previous [[Session 29 - 2024-05-23 - Adventure on Machina Part 3]]
 Next [[Session 31 - 2024-07-11 - The Plan to Unalive Life]]

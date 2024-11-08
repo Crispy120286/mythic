@@ -6,6 +6,10 @@ description: "GET OUT OF TEH HOLE!"
 session: "13"
 act: "1"
 draft: false
+fc-display-name: Session 13
+fc-date: 2347-07-02
+fc-end: 2347-07-02
+fc-category: Session Note
 ---
 Previous [[Session 12 - 2023-06-29 - GET IN TEH HOLE]]
 Next [[Session 14 - 2023-07-27 - Plans for the future]]

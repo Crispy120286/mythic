@@ -5,6 +5,10 @@ date: 2024-03-21
 description: "Adventure on Gnostis Part 2"
 session: "26"
 act: "2"
+fc-display-name: Session 26
+fc-date: 2348-06-01
+fc-end: 2348-06-10
+fc-category: Session Note
 ---
 Previous [[Session 25 - 2024-02-29 - Adventure on Gnostis Part 1]]
 Next [[Session 27 - 2024-04-11 - Adventure on Machina Part 1]]

@@ -6,6 +6,10 @@ description: "New Haven's College of Arcane Studies"
 session: "3"
 act: "1"
 draft: false
+fc-display-name: Session 3
+fc-date: 2347-06-12
+fc-end: 2347-06-13
+fc-category: Session Note
 ---
 Previous [[Session 2 - 2023-02-09 - Edge Duty]]
 Next [[Session 4 - 2023-03-09 - Another Cataclysm]]
@@ -14,7 +18,7 @@ Next [[Session 4 - 2023-03-09 - Another Cataclysm]]
 - [x] No more private meetings in the other room. We wont metagame, and Tony wont ever tell us what happened.
 
 # Log
-## Sarenith 13, 2347 AE. Late
+## Sarenith 12, 2347 AE. Late
 ##### Late Day 4 (continued)
 We're sail on back to the City of [[New Haven]] on the counts skiff. This whole Edge Work Duty has been a terrifying ordeal. As we come in sight of the city the tower has fully rebuilt its 4 docks. We dock our ship upto the closest one and head on in.
 
@@ -41,7 +45,7 @@ I stay at the guard house with [[Count Citro Volusius|The Count]] when [[Sigmund
 
 [[Sigmund Ragehammer|Sigmund]] goes to the brewery to meet with [[Zerg]]. [[Count Citro Volusius|The count]] was making him clean and do work.
 
-### Day 5. Serenith 14.
+## Sarenith 13, 2347 AE. Day 5. 
 [[Victor Kasune|Victor]] wakes first. He receives his salt shipment and rations.
 
 [[Sigmund Ragehammer|Sigmund]] wakes next and goes to get water. He hangs out with some of the guards.
