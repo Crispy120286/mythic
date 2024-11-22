@@ -22,7 +22,7 @@ Next [[Session 42 - 2024-10-31 - The Living Sign]]
 
 We go out for drinks before we are sacrificed to Sekhmet. We travel by skiff to the temple. We learn the priestess name is Karema. She offers the blood to the guardian and it enters the temple.
 
-We see colossal obsidian doors. There is an obsidian guardian with tattoos of gold. Inside the temple is a massacre. Remains of traps, zombies, and ectoplasmic remains of wraiths. Navigating is easy. Voltaire is disappointed the thrill of exploration is ruined. apparently Irthicax Vane took all the fun out of it by killing all the monsters and disarming or destroying all the traps.
+We see colossal obsidian doors. There is an obsidian guardian with tattoos of gold. Inside the temple is a massacre. Remains of traps, zombies, and ectoplasmic remains of wraiths. Navigating is easy. [[Voltaire]] is disappointed the thrill of exploration is ruined. apparently [[Irthicax Vane|Irthicax]] Vane took all the fun out of it by killing all the monsters and disarming or destroying all the traps.
 
 We ascent to a large chamber. We see a mural of Sekhmet. A lion headed woman battling an army of humans.
 
@@ -30,7 +30,7 @@ I examine the statue and notice a faded inscription next to the stone vessels.
 
 >"when the lioness thirsts for the blood of mortals, give her the nectar of life red as blood sweet as the earth."
 
-Voltaire checks the murals and guesses the goddess is one of destruction. 
+[[Voltaire]] checks the murals and guesses the goddess is one of destruction. 
 
 I decide to check out the murals myself. At some point some member of the pantheon got annoyed with mortals. the urals say Ra sent Hathor in the form of Sekhmet to destroy the mortals. Her bloodlust was not sated and almost wiped out the entire world and all of the mortals. The stop her Ra and the other gods gave her a river of beer dyed red like blood and she drank and got drunk and left. 
 
@@ -44,7 +44,7 @@ We need the get the correct ration of beer to dye.
 
 A MYTHIC HAS DIED
 
-Voltaire decided to experiment. he got his head eaten by the statue. its okay though, it grew back.
+[[Voltaire]] decided to experiment. he got his head eaten by the statue. its okay though, it grew back.
 Apparently 4/1 ration is NOT correct.
 
 8 parts total. 
@@ -65,7 +65,7 @@ The ration is 1.5 Ocre to 6.5 Beer. The statue steps aside and we move onward.
 We got it and we are able to go through. And now we come face to face with a huge Sphynx. 
 
 ## Sphinx Room.
-As soon as we enter and Orist enters and greets the sphynx.
+As soon as we enter and [[Orist Zinnorin|Orist]] enters and greets the sphynx.
 
 #### Riddles.
 "Before you pass, and dare the wrath,
@@ -95,16 +95,16 @@ I come to serve the cause of need."
 The sphynx moves aside and we move forward.
 We see Sekhmet lounging on a throne in the middle of a room. She laughs. 
 
-She lazily lifts a claw and it leaves a massive scratch on Orist's back. She calls him over with one claw. She slides off of her dais. We've seen the grove maiden and the stray god of loss and the hobgoblin chief. Our understanding of the gods is shallow. This is a major deity of an ancient pantheon with followers on worlds far away from Golarion.
+She lazily lifts a claw and it leaves a massive scratch on [[Orist Zinnorin|Orist]]'s back. She calls him over with one claw. She slides off of her dais. We've seen [[the grove maiden]] and the stray god of loss and the hobgoblin chief. Our understanding of the gods is shallow. This is a major deity of an ancient pantheon with followers on worlds far away from Golarion.
 
-"Your Divinity, Sekhmet, We come seeking Ragnorra's sign. We tracked her down and hope to defeat her."
+"Your Divinity, Sekhmet, We come seeking [[Ragnorra]]'s sign. We tracked her down and hope to defeat her."
 
 Damn she's drunk. She fell asleep.
 
 She doesn't know where the sign is. She does give us permission to search the pharaohs room.
 We see one room of gold, another in obsidian.
 
-We enter the gold room. The pharaohs room is bare, he was robbed. On the zenith on the capstone is Ragnorra's sign. 
+We enter the gold room. The pharaohs room is bare, he was robbed. On the zenith on the capstone is [[Ragnorra]]'s sign. 
 
 I begin to read the sign.
 
@@ -117,4 +117,4 @@ The room begins to shift and oh shit that's an empowered symbol of stunning. The
 
 Every island we visited, something attacked us. This sign is a living rune. Its a living 2 dimensional being that can shift itself into symbols.
 
-Sigmund twists off the capstone and its slides off the pyramid and scratches up the side of the pyramid. The Adamantine golem looks up.
+[[Sigmund Ragehammer|Sigmund]] twists off the capstone and its slides off the pyramid and scratches up the side of the pyramid. The Adamantine golem looks up.

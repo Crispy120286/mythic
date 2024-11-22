@@ -81,6 +81,12 @@ This is the journal of Caeris Colorion.
 [[Session 42 - 2024-10-31 - The Living Sign]]
 [[Session 43 - 2024-11-07 - Planning for Ragnorra]]
 [[Session 44]]
+[[Session 45]]
+[[Session 46]]
+[[Session 47]]
+[[Session 48]]
+[[Session 49]]
+[[Session 50]]
 
 
 

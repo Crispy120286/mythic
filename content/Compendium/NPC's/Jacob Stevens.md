@@ -1,5 +1,5 @@
 ---
-alias: 
+alias: Jacob
 type: npc
 campaign: "Mythic"
 location: "Haven's College of Arcane Study"

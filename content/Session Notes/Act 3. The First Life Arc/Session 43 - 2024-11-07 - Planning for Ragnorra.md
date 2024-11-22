@@ -8,7 +8,7 @@ act: "3"
 draft: false
 fc-display-name: Session 43
 fc-date: 2348-11-24
-fc-end: YYYY-MM-DD
+fc-end: 2348-11-25
 fc-category: Session Note
 ---
 Previous [[Session 42 - 2024-10-31 - The Living Sign]]
@@ -19,17 +19,17 @@ Next [[Session 44]]
 
 **Tomorrows goals**:
 
-- [ ] Summon Phychopomp.
-- [ ] Speak with dead to Living Rune. Can we rewrite runes?
+- [x] Summon Phychopomp.
+- [x] Speak with dead to Living Rune. Can we rewrite runes?
 - [x] Talk to Jacob and get Lifeward.
-- [ ] Brainstorm ways to defeat Ragnorra.
+- [x] Brainstorm ways to defeat Ragnorra.
 
 #### Archmage. Rewriting a mutiplanar rune?
 I already know one plane. The Astral Plane.
 
 Does she have Free Will?
 
-Is she creating Irthicax Vanes?
+Is she creating [[Irthicax Vane|Irthicax]] Vanes?
 
 What are the Malshapers?
 
@@ -39,7 +39,7 @@ I can summon the sign in the Archmages domain and study it at leasure.
 
 For now I sip tea and relax, writing in my journal.
 
-> The Gnome tells Sigmund that they blew up the mood. The Archmage has an orbital defense system the size of a city. Rovagug spit a worm that infected the moon and it was looking at them.
+> The Gnome tells [[Sigmund Ragehammer|Sigmund]] that they blew up the mood. The Archmage has an orbital defense system the size of a city. [[Rovagug]] spit a worm that infected the moon and it was looking at them.
 
 ## Neth 25, 2348. Flying to Poopool.
 
@@ -77,7 +77,7 @@ Karima is going to speak with dead on the Living Rune. We get 7 questions:
 
 - **Who are you?**
 	- I am the sign of Ragnorra.
-- **What is your purpose?"
+- **What is your purpose?**
 	- To point the way.
 - **What do you know of Irthicax Vane?**
 	- The blindingly brave being that challenged a goddess.
